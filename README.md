@@ -1,4 +1,7 @@
-# MEAN Stack Single Page Application Starter
+# Dashboard Starter Kit
+# Gulf of Maine Research Institute
+# Based on Scotch.io starter-node-angular (https://github.com/scotch-io/starter-node-angular)
+# Seth Dresser
 
 This is a repo for a starter appliation for a Single Page MEAN Stack application. Just download and install and you have a good foundation for building application. 
 
@@ -11,10 +14,7 @@ This is a repo for a starter appliation for a Single Page MEAN Stack application
 
 Use this starter kit to build any MEAN stack application you like.
 
-If you have any questions or requests, email us at [chris@scotch.io](mailto:chris@scotch.io) and we'll keep updating this to make it perfect.
+If you have any questions or requests, email me at [sdresser@gmri.org](mailto:sdresser@gmri.org).
 
 ## Future Additions
-- CRUD examples
-- Development and Production Environments
-- Link examples
-- Single Page AngularJS Animations
+- 
