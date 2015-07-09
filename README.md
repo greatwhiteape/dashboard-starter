@@ -11,7 +11,7 @@ This is a repo for a starter appliation for a Single Page MEAN Stack application
 4. Start up the server: `node server.js`
 5. View in browser at http://localhost:8080
 
-Use this starter kit to build any MEAN stack application you like.
+Use this starter kit to build any MEAN stack data dashboard.
 
 If you have any questions or requests, email me at [sdresser@gmri.org](mailto:sdresser@gmri.org).
 
