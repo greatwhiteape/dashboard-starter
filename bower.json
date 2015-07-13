@@ -8,5 +8,6 @@
 		"font-awesome": "latest",
 		"animate.css": "latest",
 		"highcharts-ng": "latest",
+		"angular-gridster":"latest"
 	}
 }
