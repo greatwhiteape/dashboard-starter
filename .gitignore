@@ -17,3 +17,5 @@ node_modules
 public/libs
 
 config.js
+/public/stylesheets/
+/public/.sass-cache/
