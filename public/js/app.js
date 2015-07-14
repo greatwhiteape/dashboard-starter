@@ -1,1 +1,14 @@
-angular.module('sampleApp', ['ngRoute', 'appRoutes', 'MainCtrl', 'NerdCtrl', 'NerdService', 'GeekCtrl', 'GeekService']);
+angular.module('dashApp', [
+	'ngRoute', 
+	'appRoutes', 
+	'MainCtrl', 
+	'DashCtrl', 
+	'DashService', 
+	'GeekCtrl', 
+	'GeekService', 
+	
+// Modules
+	//'ui.bootstrap',
+	//'highcharts-ng',
+	'gridster'
+]);
