@@ -4,7 +4,7 @@ Based on Scotch.io starter-node-angular (https://github.com/scotch-io/starter-no
 
 This is a repo for a starter appliation for a MEAN Stack dashboard application. Just download and install and you have a good foundation for building application. 
 
-## Ruby installed w/ required gems <- Used for Compass/Sass
+### Ruby installed w/ required gems <- Used for Compass/Sass
 *** LOCAL GEMS ***
 - autoprefixer-rails (5.2.1)
 - bootstrap-sass (3.3.5.1)
@@ -29,7 +29,7 @@ This is a repo for a starter appliation for a MEAN Stack dashboard application. 
 - toolkit (2.9.0)
 
 
-## Installation
+### Installation
 1. Download the repository
 2. Install npm modules: `npm install`
 3. Install bower dependencies `bower install`
@@ -41,6 +41,6 @@ Use this starter kit to build any MEAN stack data dashboard.
 
 If you have any questions or requests, email me at [sdresser@gmri.org](mailto:sdresser@gmri.org).
 
-## Future Additions
+### Future Additions
 - Add Grunt & Gulp
 - Use Grunt or Gulp to compile SASS <- No more compass
