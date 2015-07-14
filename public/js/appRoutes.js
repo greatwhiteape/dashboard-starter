@@ -13,8 +13,8 @@ angular.module('appRoutes', []).config(['$routeProvider', '$locationProvider', f
 			controller: 'DashboardController'
 		})
 
-		.when('/geeks', {
-			templateUrl: 'views/geek.html',
+		.when('/blank', {
+			templateUrl: 'views/blank.html',
 			controller: 'GeekController'	
 		});
 

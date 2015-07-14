@@ -4,11 +4,14 @@ angular.module('dashApp', [
 	'MainCtrl', 
 	'DashCtrl', 
 	'DashService', 
+	'ChartCtrl',
+	'ChartService',
+	'WidgetCtrl',
 	'GeekCtrl', 
 	'GeekService', 
 	
 // Modules
-	//'ui.bootstrap',
-	//'highcharts-ng',
+	'ui.bootstrap',
+	'highcharts-ng',
 	'gridster'
 ]);
