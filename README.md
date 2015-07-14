@@ -2,7 +2,7 @@
 ## Gulf of Maine Research Institute
 Based on Scotch.io starter-node-angular (https://github.com/scotch-io/starter-node-angular)
 
-This is a repo for a starter appliation for a Single Page MEAN Stack application. Just download and install and you have a good foundation for building application. 
+This is a repo for a starter appliation for a MEAN Stack dashboard application. Just download and install and you have a good foundation for building application. 
 
 ## Requisites 
 - Ruby installed w/ required gems <- Used for Compass/Sass
