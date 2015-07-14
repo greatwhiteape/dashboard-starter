@@ -5,7 +5,7 @@ Based on Scotch.io starter-node-angular (https://github.com/scotch-io/starter-no
 This is a repo for a starter appliation for a MEAN Stack dashboard application. Just download and install and you have a good foundation for building application. 
 
 ## Ruby installed w/ required gems <- Used for Compass/Sass
-- *** LOCAL GEMS ***
+*** LOCAL GEMS ***
 - autoprefixer-rails (5.2.1)
 - bootstrap-sass (3.3.5.1)
 - breakpoint (2.5.0)
